@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables (Security Risk)
+.env
+.DS_Store
+
+# Build Outputs
+dist/
+build/
+coverage/
