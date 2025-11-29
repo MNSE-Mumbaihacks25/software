@@ -1,0 +1,3 @@
+[submodule "voice-agent"]
+	path = voice-agent
+	url = https://github.com/MNSE-Mumbaihacks25/Voice-Agent.git
